@@ -1,0 +1,7 @@
+# CPYTRO Coin Requirements
+# No external dependencies required for basic version
+
+# Optional dependencies for advanced features:
+# cryptography
+# requests
+# flask
