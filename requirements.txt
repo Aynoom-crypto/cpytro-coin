@@ -1,7 +1,0 @@
-python-binance==1.0.19
-pandas==2.0.3
-numpy==1.24.3
-ta==0.10.2
-python-dotenv==1.0.0
-schedule==1.2.0
-colorama==0.4.6
